@@ -1,0 +1,6 @@
+D:\Deepali\DemoApplication\StringFunctions\StringFunctions\bin\Debug\StringFunctions.exe.config
+D:\Deepali\DemoApplication\StringFunctions\StringFunctions\obj\Debug\StringFunctions.csprojResolveAssemblyReference.cache
+D:\Deepali\DemoApplication\StringFunctions\StringFunctions\bin\Debug\StringFunctions.exe
+D:\Deepali\DemoApplication\StringFunctions\StringFunctions\bin\Debug\StringFunctions.pdb
+D:\Deepali\DemoApplication\StringFunctions\StringFunctions\obj\Debug\StringFunctions.exe
+D:\Deepali\DemoApplication\StringFunctions\StringFunctions\obj\Debug\StringFunctions.pdb
